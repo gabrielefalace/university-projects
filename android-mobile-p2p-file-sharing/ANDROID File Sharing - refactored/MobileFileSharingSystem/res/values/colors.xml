@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="paper">#AAFFFF99</color>
+	<color name="lines">#FF0000FF</color>
+	<color name="margin">#90FF0000</color>
+	<color name="text">#AA0000FF</color>
+</resources>
