@@ -1,2 +1,5 @@
-# university-projects
-Some of the projects done at Univerity
+# University projects
+:warning: not in particularly good shape :see_no_evil:
+
+
+A dump of a few projects done at Univerity.
